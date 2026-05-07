@@ -3,3 +3,10 @@ __pycache__/
 *.pyc
 *.pdf
 *.zip
+
+# โฟลเดอร์เก็บข้อมูลดิบ
+data/
+
+# ไฟล์ผลการเลือกตั้ง (เพื่อป้องกันไฟล์ขนาดใหญ่เกิน limit ของ GitHub)
+election_locations_66.csv
+election_scores_2566.csv
